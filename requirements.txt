@@ -3,4 +3,5 @@ pandas
 python-dateutil
 plotly
 sqlalchemy
+psycopg2-binary
 psycopg2==2.9.9
